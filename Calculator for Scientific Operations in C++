@@ -108,4 +108,5 @@ int main() {
 	default:
 		cout << "Invalid Choice." << endl;
 	}
+	return 0;
 }
